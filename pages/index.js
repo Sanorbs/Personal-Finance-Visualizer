@@ -62,9 +62,9 @@ export default function Home() {
           {/* Testimonial Section */}
           <div className="mt-20 bg-orange-50 rounded-xl p-8 text-center">
             <blockquote className="max-w-3xl mx-auto">
-              <p className="text-xl italic text-gray-700 mb-4">
-                "This dashboard transformed how I manage my finances. The visualizations make complex data simple to understand."
-              </p>
+            <p className="text-xl italic text-gray-700 mb-4">
+  &ldquo;This dashboard transformed how I manage my finances. The visualizations make complex data simple to understand.&rdquo;
+</p>
               <footer className="text-orange-600 font-medium">- Happy User</footer>
             </blockquote>
           </div>
